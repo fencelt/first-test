@@ -1,2 +1,2 @@
 # first-test
-Test repo for the data scientits toolbox course
+Test repo for the data scientists toolbox course
